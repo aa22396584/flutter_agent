@@ -228,6 +228,12 @@ flutter test           # 181 tests
 flutter analyze        # Static analysis
 ```
 
+---
+
+## Support
+
+If this project saved you some time, you can [buy me a coffee](https://buymeacoffee.com/iml1s).
+
 ## License
 
 [BSD 3-Clause](LICENSE)
