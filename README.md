@@ -1,3 +1,8 @@
+
+> **Development home:** https://github.com/ImL1s/flutter_agent  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/flutter_agent) · [GitLab](https://gitlab.com/aa22396584/flutter_agent)
+
 <p align="center">
   <img src="assets/icon.png" width="120" alt="Flutter Agent icon" />
 </p>
