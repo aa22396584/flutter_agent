@@ -1,7 +1,10 @@
 
-> **Development home:** https://github.com/ImL1s/flutter_agent  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/flutter_agent) · [GitLab](https://gitlab.com/aa22396584/flutter_agent)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/flutter_agent
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/flutter_agent) ·
+[Codeberg](https://codeberg.org/ImL1s/flutter_agent)
 
 <p align="center">
   <img src="assets/icon.png" width="120" alt="Flutter Agent icon" />
@@ -15,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ImL1s/flutter_agent/actions"><img src="https://img.shields.io/badge/tests-181%20passed-brightgreen" alt="Tests" /></a>
+  <a href="https://github.com/aa22396584/flutter_agent/actions"><img src="https://img.shields.io/badge/tests-181%20passed-brightgreen" alt="Tests" /></a>
   <a href="https://pub.dev/packages/ai_flutter_agent"><img src="https://img.shields.io/pub/v/ai_flutter_agent.svg" alt="Pub Version" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-BSD--3--Clause-blue" alt="License" /></a>
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-%E2%89%A53.22-02569B?logo=flutter" alt="Flutter" /></a>
@@ -33,7 +36,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ImL1s/flutter_agent/releases/download/v0.1.3/demo.mp4">📥 Watch full demo video (MP4)</a>
+  <a href="https://github.com/aa22396584/flutter_agent/releases/download/v0.1.3/demo.mp4">📥 Watch full demo video (MP4)</a>
 </p>
 
 ---
