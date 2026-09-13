@@ -6,6 +6,9 @@ https://github.com/aa22396584/flutter_agent
 [GitLab](https://gitlab.com/aa22396584/flutter_agent) ·
 [Codeberg](https://codeberg.org/ImL1s/flutter_agent)
 
+
+> **Why this GitHub home?** Public development moved here from [`ImL1s/flutter_agent`](https://github.com/ImL1s/flutter_agent) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 <p align="center">
   <img src="assets/icon.png" width="120" alt="Flutter Agent icon" />
 </p>
